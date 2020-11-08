@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors
 RPS game from JetBrains Academy
+
 Description
 How about some brand new rules? The original game has a fairly small choice of options.
 
